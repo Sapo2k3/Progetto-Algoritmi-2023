@@ -1,0 +1,10 @@
+﻿  cl : warning della riga di comando D9002 : l'opzione sconosciuta '/Zc' verrà ignorata
+  main.c
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(24,15): warning C4820: 'mt': '3' byte aggiunti dopo membro dati 'val'
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(119,35): warning C4100: 'j': parametro formale senza riferimenti
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(119,28): warning C4100: 'i': parametro formale senza riferimenti
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(284,14): warning C4100: 'argc': parametro formale senza riferimenti
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(279): warning C5045: Se è stata specificata l'opzione /Qspectre, il compilatore inserirà la mitigazione Spectre per il carico della memoria
+  C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(278) : nota: intervallo dell'indice 'i' verificato per confronto su questa riga
+  C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(279) : nota: attiva la chiamata su questa riga
+  ProgettoAlgoritmi1.vcxproj -> C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\Debug\ProgettoAlgoritmi1.exe

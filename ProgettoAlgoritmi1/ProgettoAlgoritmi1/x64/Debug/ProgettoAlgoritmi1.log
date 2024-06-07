@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(10,20): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(27,17): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int *'
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(28,17): warning C4477: 'fscanf': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int *'
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(33,54): warning C4047: '=': 'char *' differisce da 'char **' nei livelli di riferimento indiretto
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(36,17): warning C4047: '=': 'FILE *' differisce da 'int (__cdecl *)(FILE *)' nei livelli di riferimento indiretto
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(26,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(27,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(28,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matti\Desktop\Nuova cartella\ProgettoAlgoritmi1\ProgettoAlgoritmi1\main.c(24,25): warning C4101: 'j': variabile locale senza riferimenti
